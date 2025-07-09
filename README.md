@@ -6,7 +6,7 @@ A Golang command-line application that makes streaming calls to the OpenAI API.
 
 - Simple command-line interface
 - Streams responses in real-time
-- Uses OpenAI's GPT-3.5 Turbo model by default
+- Uses OpenAI's GPT-4o model by default
 
 ## Installation
 
